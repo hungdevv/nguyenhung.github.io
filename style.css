@@ -53,8 +53,13 @@ body {
   }
   body .box .time {
     text-align: center;
+    margin: 1rem 0;
   }
   body .box .time .date {
+    font-weight: 600;
+    font-size: 1.5rem;
+  }
+  body .box .time .date-p2{
     font-weight: 600;
     font-size: 1.5rem;
   }
